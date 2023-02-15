@@ -7,13 +7,6 @@
     margin: 0;
     box-sizing: border-box;
 }
-body {
-  background-color: red;
-  
-}
-header {
-  background-color: rgb(243, 242, 242);
-}
 .color_nav_button1 {
   background-color:  rgb(243, 134, 185);
   border-radius: 5px;
@@ -63,4 +56,20 @@ header {
   border-radius: 5px;
   border-color: rgb(217, 3, 104);
   width: 100px;
+}
+.card_details {
+  box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+thead {
+  background-color:  rgb(217, 3, 104);
+}
+table, th, td {
+  background-color: rgb(243, 134, 185);
 }
