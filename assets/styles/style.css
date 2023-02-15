@@ -1,0 +1,66 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+
+*{
+    font-family: 'Inter', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+  background-color: red;
+  
+}
+header {
+  background-color: rgb(243, 242, 242);
+}
+.color_nav_button1 {
+  background-color:  rgb(243, 134, 185);
+  border-radius: 5px;
+  border-color: rgb(243, 134, 185);
+}
+.color_nav_button2 {
+  background-color:  rgb(217, 3, 104);
+  border-radius: 5px;
+  border-color: rgb(217, 3, 104);
+}
+.color_icon_search {
+  background-color:  rgb(217, 3, 104);
+  border-radius: 5px;
+  border-color: rgb(217, 3, 104);
+}
+.card1_img {
+  box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
+  height: 146px;
+}
+.card2_img {
+  box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
+}
+.card3_img {
+  box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
+  height: 148px;
+}
+.card4_img {
+  box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
+}
+.card5_img {
+  box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
+}
+.card6_img {
+  box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
+  height: 159px;
+}
+.card_buttom {
+  box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
+  background-color:  rgb(217, 3, 104);
+  border-radius: 5px;
+  border-color: rgb(217, 3, 104);
+  width: 100px;
+}
+.button_submit {
+  box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
+  background-color:  rgb(217, 3, 104);
+  border-radius: 5px;
+  border-color: rgb(217, 3, 104);
+  width: 100px;
+}
