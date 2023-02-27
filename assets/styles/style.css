@@ -7,6 +7,15 @@
     margin: 0;
     box-sizing: border-box;
 }
+header {
+  height: 15vh;
+}
+main {
+  min-height: 75vh;
+}
+footer {
+  min-height: 10vh;
+}
 .color_nav_button1 {
   background-color:  rgb(243, 134, 185);
   border-radius: 5px;
@@ -24,9 +33,9 @@
 }
 .card1_img {
   box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
-  height: 146px;
+  height: 160px;
 }
-.card2_img {
+/*.card2_img {
   box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
 }
 .card3_img {
@@ -42,7 +51,7 @@
 .card6_img {
   box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
   height: 159px;
-}
+}*/
 .card_buttom {
   box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
   background-color:  rgb(217, 3, 104);
@@ -57,11 +66,13 @@
   border-color: rgb(217, 3, 104);
   width: 100px;
 }
-.card_details {
+.card_details_img {
   box-shadow: -5px -5px 10px 0px rgb(0, 0, 0);
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
 }
 form {
   margin-left: auto;
