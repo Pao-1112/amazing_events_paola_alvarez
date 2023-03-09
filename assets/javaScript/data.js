@@ -1,4 +1,4 @@
-let data_cards={
+const data_cards={
   "currentDate": "2022-01-01",
   "events": [
     {
